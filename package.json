@@ -1,0 +1,19 @@
+{
+  "name": "ghazal-ai",
+  "version": "1.0.0",
+  "description": "ai غزل الئطة | الرفيقة الذكية المصممة حصرياً لـ غزل - إعداد: قيس جازي",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "chatbot",
+    "ghazal",
+    "groq",
+    "arabic-ai",
+    "luxury-ui"
+  ],
+  "author": "قيس جازي",
+  "license": "MIT"
+}
